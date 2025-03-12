@@ -1,0 +1,1 @@
+This project is based on an Adventure Works dataset, which underwent an ETL process in Power Query for data cleaning, transformation, and structuring. Later, in Power Pivot, relationships were established between the resulting tables, and calculated measures (DAX) were created to provide key insights for configuring the dashboards.
